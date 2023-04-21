@@ -7,7 +7,9 @@
 
 
 
-1 Introduce Qt/Qml. tai sao su dung framework nay
+1 Introduce Qt/Qml. tai sao su dung framework nay, onComponentCompleted: {}
+- Cac su kien onClicked, DoubleClicked, on{.....}
+- 
 1. QT Quick Control:
 	+ Button
 	+ BusyIndtcator
@@ -40,7 +42,7 @@
 	+ Connect 1 signal - 1 slot
 	+ Connect 1 signal - 2+ slot
 	+ Connect 2 signal - 2 slot
-- Co 2 loai: 
+- Co 3 loai: 
 	+ string-base
 	+ Functor-base
 	+ lamda
