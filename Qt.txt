@@ -1,0 +1,96 @@
+1. Cac buoc bien dich tren Qt/Qml.
+1. Cac item co ban trong Qt/Qml.
+3. Cac cach ket noi signal - slot.
+4. interactive C++ - Qt/Qml. 
+5. Tai sao QT/Qml lai hay dung model: MVC
+6. Nen dung CMake hay QMake de build chuong trinh.
+
+
+
+1 Introduce Qt/Qml. tai sao su dung framework nay
+1. QT Quick Control:
+	+ Button
+	+ BusyIndtcator
+	+ CheckBox
+	+ ComboBox
+	+ DelayButton
+	+ Dial
+	+ GroupBox, RadioButton, CHeckBox
+	+ SwipeView
+	+ ProgressBar
+	+ FLickable, ScrollBar
+	+ Slider
+2. QT Quick Control Dialogs:
+	+ Switch
+	+ TextArea
+	+ TextInput
+	+ SpinBox
+3. Models Views va Delegates:
+	+ ListView, ListModel
+	+ Heder, Footer, Highlights
+	+ Repeater
+	+ Gird View
+	+ PathView
+4. Animation, transform:
+	+ Animation (3 loai chinh)
+5. QObject Class
+	+ Meta Object Compiler
+	+ Qua trinh bien dich trong mot chuong trinh Qt.
+6. Signal and slot:
+	+ Connect 1 signal - 1 slot
+	+ Connect 1 signal - 2+ slot
+	+ Connect 2 signal - 2 slot
+- Co 2 loai: 
+	+ string-base
+	+ Functor-base
+	+ lamda
+7. interactive C++ - QML
+	+ C++ and C++
+	+ QML and QML
+	+ C++ and QML
+- Binding object on QML annd how to use it.
+- have some macro:
+	+ Q_OBJECT
+	+ Q_INVOKABLE
+	+ Q_PROPERTY
+- How to create a object ?
+8. Create Model C++ on QT:
+	+ QStringList, QVariantList
+	+ QObjectList
+	+ QAbstraclistModel
+9. Ta va su dung thu vien trong QT/Qml:
+	+ Cach tao mot thu vien trong Qt
+	+ Cach cai dat mot thu vien co san va su dung
+10. Multi threading(QThread):
+	+ KHac nhau giua THread va Process
+	+ lap trinh da luong
+	+ QMutex
+11. Introduce Timer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

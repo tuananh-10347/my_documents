@@ -1,0 +1,7 @@
+1. Phan biet static, dynamic library
+2. Cac buoc bien dich cua 1 chuong trinh
+3. Paging la gi.
+4. Co may loai vung nho.
+5. Khac nhau giua Stack va heap.
+6. Double linklist, Binary tree, Queue, Stack, Heap la gi.
+7.

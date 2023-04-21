@@ -1,0 +1,8 @@
+1. Design pattern la gi, co may loai.
+2. Singleton
+3. Factory
+4. Obsever
+5. Sate
+6. Bridge
+7. Cac loai architecture: MVC, MVVP, MVP, uu nhuoc diem tung loai.
+ 

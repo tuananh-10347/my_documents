@@ -1,0 +1,34 @@
+1. Cac buoc bien dich cua chuong trinh C/C++.
+2. OOP la  gi, 4 tinh chat, phan biet chung.
+3. So sanh interface va abstract class, phan biet chung.
+4. So sanh C strcut, C++ stuct, C++ class.
+5. Phan biet new(C++) va malloc, calloc(C), viet synstas cua chung.
+6. Phan biet delete(C++) va free(C++), viet synstas cua chung.
+7. Co the dung new - free hoac malloc - delete khong ?
+8. Khac nhau giua new() va new[].
+9. Khac nhau giua delete va delete[].
+10. Khac nhau giua nullptr va NULL.
+11. Pointer la gi, phan biet *ptr,&ptr,*&ptr.
+12. Smart Pointer la gi.
+13. Uu nhuoc diem cua unique, shared, weak pointer, based pointer.
+14. Void pointer la gi, su dung nhu the nao.
+15. Ep kieu trong C++.
+16. Constructor, destrcutor, copy move constructor.
+17. virtual constructor, destructor.
+18. virtual, pure virtual.
+19. Override, overloading.
+20. handling exceptions (try, catch, throw,....).
+21. Big O 
+22. Template(template class, template function)
+23. multi threading.
+24. namespace.
+25. Khac nhau C, C++, Java.
+26. static, global paramater, no duoc khai bao o vung nho nao.
+27. khac nhau define va const.
+28. 
+
+
+
+1. Viet ham swap ma k dung bien temp.
+2. Khai bao 1 bien tren vung nho: stack, heap.
+3. 
