@@ -25,8 +25,7 @@
 25. Khac nhau C, C++, Java.
 26. static, global paramater, no duoc khai bao o vung nho nao.
 27. khac nhau define va const.
-28. 
-
+28. uu nhuoc diem c va c++
 
 
 1. Viet ham swap ma k dung bien temp.
